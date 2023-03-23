@@ -1,9 +1,9 @@
 
 <?php
 session_start();
-if(isset($_SESSION['email'])){
-    header('location:show.php');
-  }
+// if(isset($_SESSION['email'])){
+//     header('location:show.php');
+//   }
 ?>
 
 
